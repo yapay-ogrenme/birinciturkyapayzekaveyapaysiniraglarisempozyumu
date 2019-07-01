@@ -67,9 +67,9 @@
 (Use of Artificial Neural Networks and Other Techniques in Speech Recognition)](https://yapay-zeka.gitbook.io/ilkturkyapayzekaveyapaysiniraglarisempozyumu/konusma-tanima-speech-recognition/konusma-isaretinin-taninmasi-icin-kullanilan-yapay-noeron-aglari-ve-diger-teknikler)
   - F. Gürgen, F. Güneş, Boğaziçi Üniversitesi, Türkiye
 
--[Isolated Speech Recognition System
+- [Isolated Speech Recognition System
 (Kesintili Konuşma Tanıma Sistemi)](https://yapay-zeka.gitbook.io/ilkturkyapayzekaveyapaysiniraglarisempozyumu/konusma-tanima-speech-recognition/isolated-speech-recognition-system)
-M. Aktekin, Teletaş, Türkiye
+  - M. Aktekin, Teletaş, Türkiye
   - A. Daloğlu, Yıldız Üniversitesi, Türkiye
 
 - [Vocal Tract Shape Estimation
