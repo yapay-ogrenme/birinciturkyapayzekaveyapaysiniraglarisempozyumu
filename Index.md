@@ -40,7 +40,7 @@
 (Labirent Problemlerinin Hücresel Sinir Ağları ile Çözülmesi)](https://yapay-zeka.gitbook.io/ilkturkyapayzekaveyapaysiniraglarisempozyumu/yapay-sinir-aglari-uygulamalari-applications-of-artificial-neural-networks/solving-maze-problems-by-cellular-neural-networks)
   - U. Halıcı, U. Yaranlı, ODTÜ, Türkiye
 
--[Ping-Pong Oynamasını Öğrenen Yapay Sinir Ağı
+- [Ping-Pong Oynamasını Öğrenen Yapay Sinir Ağı
 (An Artificial Neural Network which Learns to Play Ping-Pong)](https://yapay-zeka.gitbook.io/ilkturkyapayzekaveyapaysiniraglarisempozyumu/yapay-sinir-aglari-uygulamalari-applications-of-artificial-neural-networks/ping-pong-oynamasini-oegrenen-yapay-sinir-agi)
   - S. Aratma, H. L. Akın, Boğaziçi Üniversitesi, Türkiye
 
@@ -91,7 +91,7 @@
   - B. S. Yılbaş, Erciyes Üniversitesi, Türkiye
   - N. Karaboğa, University of Wales, İngiltere
 
--[Classiflcation and Computation on Non-uniform Finite Cellular Automata Networks
+- [Classiflcation and Computation on Non-uniform Finite Cellular Automata Networks
 (Değişen Sonlu Hücresel Özdevinik Ağlarında Sınıflandırma ve Hesaplama)](https://yapay-zeka.gitbook.io/ilkturkyapayzekaveyapaysiniraglarisempozyumu/yapay-sinir-aglari-yapilari-artificial-neural-notwork-architectures/classification-and-computation-on-non-uniform-finite-cellular-automata-networks)
   - H. Kılıç, Bilkent Üniversitesi, Türkiye
   - M. Güler, ODTÜ, Türkiye
