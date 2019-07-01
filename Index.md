@@ -158,19 +158,19 @@
 ## Yapay Sinir Ağları Uygulamaları / Application of Artificial Neural Networks
 
 - [A Neural Network Architecture for Emulating Forward Dynamics of a Robot Manipulator
-(Robot Manipülatörünün İleri Dinamiğinin Benzetişimi için bir Yapay Sinir Ağı Mimarisi)]()
+(Robot Manipülatörünün İleri Dinamiğinin Benzetişimi için bir Yapay Sinir Ağı Mimarisi)](https://yapay-zeka.gitbook.io/ilkturkyapayzekaveyapaysiniraglarisempozyumu/yapay-sinir-aglari-uygulamalari-application-of-artificial-neural-networks/a-neural-network-architecture-for-emulating-forward-dynamics-of-a-robot-manipulator)
   - T. Tunalı, B. Şamlı, Ege Üniversitesi, Türkiye
   - M. Kuntalp, Dokuz Eylül Üniversitesi, Türkiye
 
 - [Stability Properties of Artificial Neural Network Based Robotic Controllers 
-(Yapay Sinir Ağları Kullanan Robot Denetçilerinin Kararlılık Özellikleri)]()
+(Yapay Sinir Ağları Kullanan Robot Denetçilerinin Kararlılık Özellikleri)](https://yapay-zeka.gitbook.io/ilkturkyapayzekaveyapaysiniraglarisempozyumu/yapay-sinir-aglari-uygulamalari-application-of-artificial-neural-networks/stability-properties-of-artificial-neural-network-based-robotic-controllers)
   - M. K. Cılız, Boğaziçi Üniversitesi, Türkiye
 
 - [Pattern Classifier
-(Örüntü Sınıflandırıcı)]()
+(Örüntü Sınıflandırıcı)](https://yapay-zeka.gitbook.io/ilkturkyapayzekaveyapaysiniraglarisempozyumu/yapay-sinir-aglari-uygulamalari-application-of-artificial-neural-networks/pattern-classifier)
   - A. E. Günhan, University of Bergen, Norveç
 
 - [Yapay Sinir Ağlarının Robotikteki Uygulamaları
-(Applications of Artificial Neural Networks in Robotics)]()
+(Applications of Artificial Neural Networks in Robotics)](https://yapay-zeka.gitbook.io/ilkturkyapayzekaveyapaysiniraglarisempozyumu/yapay-sinir-aglari-uygulamalari-application-of-artificial-neural-networks/yapay-sinir-aglarinin-robotikteki-uygulamalari)
   - D. T. Pham, S. Sağıroğlu, University of Wales, İngiltere
 
